@@ -61,7 +61,7 @@ public class GamePlay : MonoBehaviour
 
     protected virtual void CheckWin()
     {
-        if (gameManager.Score == 2)
+        if (gameManager.Score == 10)
         {
             UIManager.instance.ShowWinGame(true);
             Debug.Log("Win");
