@@ -1,4 +1,3 @@
-# About Game
 ## 1. Cấu trúc game
 - Bản đồ hình vuông bằng Terrain
 - Nhân vật chính do người chơi điều khiển
